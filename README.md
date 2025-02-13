@@ -1,6 +1,4 @@
-# senior-project-middle-management
-senior-project-middle-management created by GitHub Classroom
-
+# Welcome to Punchcard!
 ### Testing frontend
 Navigate to the frontend folder in the repository and run `npx expo start` in your terminal. Scan the resulting qr code with your phone camera (iOS) or Expo app camera (Android).
 
